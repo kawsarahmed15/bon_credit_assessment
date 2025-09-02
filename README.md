@@ -208,9 +208,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📞 Contact
 
 - **Developer**: Kawsar Ahmed
-- **Email**: kawsar@example.com
-- **LinkedIn**: [Your LinkedIn Profile]
+- **Email**: ahmedkawsar202949@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/kawsarahmed15
 
 ---
 
-*Built with ❤️ using Flutter and powered by AI*
